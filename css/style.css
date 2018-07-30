@@ -101,7 +101,7 @@ body {
         transform: translateX(12rem)
     }
     80%{
-        transform: translateX(-2rem
+        transform: translateX(-2rem)
     }
     100%{
         opacity: 1;
@@ -115,14 +115,14 @@ body {
     text-decoration: none;
     padding: 1.5rem 4rem;
     display: inline-block;
-    border-radius: 10rem;
+    border-radius: 100px;
     transition: all .2s;
     position: relative;
 }
 
 .btn:hover{
     transform: translateY(-3px);
-    box-shadow: 0 1rem 20rem #00000033;
+    box-shadow: 0 1rem 2rem #00000033;
 }
 
 .btn:active{
