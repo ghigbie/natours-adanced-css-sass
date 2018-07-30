@@ -1,0 +1,23 @@
+{
+  "name": "natours-advanced-css-sass",
+  "version": "1.0.0",
+  "description": "This repo is dedicated to the practice of advanced css and sass.",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghigbie/natours-advanced-css-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghigbie/natours-advanced-css-sass/issues"
+  },
+  "homepage": "https://github.com/ghigbie/natours-advanced-css-sass#readme"
+}
